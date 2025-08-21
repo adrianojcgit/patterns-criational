@@ -1,4 +1,3 @@
-# patterns-criational
-"Os padrões criacionais fornecem vários mecanismos de criação de objetos, que aumentam a flexibilidade e reutilização de código já existente."
-https://refactoring.guru/pt-br/design-patterns/creational-patterns
+# Padrões de Projeto
+Padrões de projeto (design patterns) são soluções típicas para problemas comuns em projeto de software. 
 
