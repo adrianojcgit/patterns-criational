@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "factory-method", "factory-method\factory-method.csproj", "{B05A9084-1BC0-42ED-81D5-926B3C7E57B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abstract-factory", "abstract-factory\abstract-factory.csproj", "{1CB0A8CF-C4BC-4F8C-A1AC-111F77A055FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{B05A9084-1BC0-42ED-81D5-926B3C7E57B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B05A9084-1BC0-42ED-81D5-926B3C7E57B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B05A9084-1BC0-42ED-81D5-926B3C7E57B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CB0A8CF-C4BC-4F8C-A1AC-111F77A055FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB0A8CF-C4BC-4F8C-A1AC-111F77A055FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB0A8CF-C4BC-4F8C-A1AC-111F77A055FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB0A8CF-C4BC-4F8C-A1AC-111F77A055FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
